@@ -23,7 +23,8 @@
     <string name="Title">Home</string>
     <string name="title_activity_news">NewsActivity</string>
     <string name="title_activity_register">Register New Account</string>
-    <string name="title_activity_berita01">Bandung Lautan Api</string>
+    <string name="title_activity_berita01"></string>
+    <string name="test">Eaea ea aea ae</string>
     <string name="large_text">
 
         "   Peristiwa Bandung Lautan Api terjadi karena pasukan Inggris mulai memasuki kota Bandung sejak pertengahan bulan Oktober 1945. Di Bandung, pasukan Inggris dan NICA melakukan teror terhadap rakyat sehingga mengakibatkan terjadinya pertempuran.  Menjelang bulan November 1945, pasukan NICA semakin merajalela di  Bandung. Setelah masuknya tentara Inggris yang berasal dari satuan NICA memanfaatkannya untuk mengembalikan  kekuasaannya atas kota Bandung. Hal ini menyebabkan semangat juang rakyat dan para pemuda yang tergabung dalam TKR dan badan-badan perjuangan lainnya semakin berkobar."
@@ -34,5 +35,123 @@
     <string name="title_activity_fullscreen">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="news_title1">Polisi Sebut Info Lokasi Razia di Bandung Hoax</string>
+    <string name="news_title2">Polisi tegaskan Bandung kacau karena kisruh angkutan online hoax</string>
+    <string name="news_title3">Broadcast Kelompok Massa Berencana Serang Kafe di Braga Bandung</string>
+
+    <string name="news_content1">
+        "
+        Bandung - Operasi Zebra digelar secara serentak di Indonesia pada 16-29 November 2016. Pihak Satlantas Polrestabes Bandung menegaskan tidak pernah mengumumkan lokasi pelaksanaan operasi kepatuhan berlalu lintas ini kepada pengendara bermotor roda dua dan empat.
+
+Hal tersebut disampaikan Wakasatlantas Polrestabes Bandung Kompol Santiadjie saat dikonfirmasi detikcom soal menyebarnya info lokasi razia di Kota Bandung pada 16-29 November 2016 yang viral di media sosial. "Kalau tanggal tersebut memang ada Operasi Zebra. Tapi tempat razia yang infonya beredar itu hoax, enggak benar," kata Adjie, sapaan dia, sewaktu dikontak via telepon, Rabu (16/11/2016).
+
+Selama Operasi Zebra berlangsung di Kota Bandung, menurut Adjie, pihak kepolisian menerapkan pola acak dalam menentukan lokasi razia. Kalau titik razia diumumkan ke publik malah para pelanggar sengaja menghindar atau pelaku curanmor bisa leluasa kabur.
+
+"Titik-titik operasinya, kami lakukan secara random. Kami imbau masyarakat jangan mudah percaya dengan info yang tidak resmi," ujar Adjie.
+
+Beberapa hari terakhir, tersebar secara viral mengenai titik-titik lokasi razia di Kota Bandung. Begini isinya: 'Dari tanggal 16-29 november 2016
+Waktu razia 09:00 - 12:00 WIB, 13:00 - 15-00 WIB dan 15:00 - 17:00 WIB.
+- Jalan Setiabudhi, depan UPI
+- Jalan Setiabudhi, depan Borma
+- Jalan Cipaganti
+- Di bawah jembatan Pasupati tepatnya di perempatan yang ke arah Cipaganti dan RS Hasan Sadikin
+- Jalan Abdul Rivai
+- Pasar Ciroyom
+- Bunderan Sudirman
+- Jalan Garuda, Rajawali
+- Terminal Cicaheum
+- Jalan PH.H Mustofa perempatan Cimuncang
+- Depan Pusdai
+- Jl Supratman depan SMPN 22
+- Depan Polres Cimahi
+- Jalan Kiara Condong di bawah jembatan layang depan pabrik tekstil
+- Jalan Terusan Buah Batu di bawah jembatan tol bubat
+- Jl. BKR depan hotel Horizon
+- Jalan A.H Nasution depan bank Sinar Mas
+- Jalan Otto Iskandar Dinata Bandung dekat Bank Tabungan Pensiunan Nasional
+- Pasar Astan Anyar
+- Jalan Kopo No 40` Bandung dekat belokan yang mau ke Jalan Panjunan
+- Jalan Soekarno Hatta dekat PT LEN Persero
+- Jalan. Soekarno Hatta No. 325 Bandung
+- Jalan Kopo dekat Pintu Tol Pasir Koja
+- Jalan Terusan Kopo-Soreang dekat Jalan Kw- Industri Trikencana Cijagra Kaler
+- Dekat Gedung DPRD Kabupaten Bandung Selatan Jalan Al Fathu
+- Jalan Tamansari depan Baksil
+- Jalan Merdeka dekat Balai Kota Bandung
+- Jalan Pungkur Bandung dekat Apotik Apollo
+- Jalan Dewi Sartika dekat Jalan Kepatihan
+- Jalan Asia Afrika Bandung dekat Kantor Garuda Indonesia Bandung
+- Jalan Karapitan depan Unla
+- Jalan Padjadjaran depan SMKN 12
+- Jalan Braga Bandung dekat Jalan Kejaksaan Bandung
+- Bunderan Jalan Asia Afrika dekat Jalan Karapitan Bandung
+- Simpang Cileunyi
+
+
+(bbn/ern)
+        "
+    </string>
+    <string name="news_content2">
+        "
+        Merdeka.com - Beredar pesan berantai sejak Jumat (10/3) kemarin yang menyebut Kota Bandung bakal kacau. Hal itu dikarenakan, kisruh yang masih terjadi dengan keberadaan angkutan online.
+
+Pesan melalui WhatsApp (WA) yang beredar terjadi satu hari pasca adanya aksi besar-besaran dari sopir angkot di beberapa kota di Indonesia yang menolak angkutan online. Tak kecuali Kota Bandung, yang berekses pada warganya yang menjadi korban perusakan mobil Avanza di Jalan BKR Kota Bandung, pada Kamis (9/3).
+
+Avanza itu dirusak karena disangka angkutan online. Padahal mobil nopol pelat hitam itu tengah mengangkut satu keluarga.
+
+Dalam pesan yang beredar itu disebutkan para pengemudi ojek online akan berkumpul di Bandung pada hari ini untuk meminta pertanggungjawaban rekan sejawatnya yang tewas, bahkan hilang karena dituding dilakukan kubu dari angkot gabungan.
+
+Namun kabar tersebut dipastikan hoax. Hal ini dipastikan oleh Kapolrestabes Bandung Kombes Pol Hendro Pandowo.
+
+"Izin menyampaikan bahwa berita tersebut HOAX, HOAX dan HOAX terima kasih," kata Hendro melalui pesan singkat kepada wartawan, Sabtu (11/3).
+
+Berikut isi pesan hoax yang ramai beredar melalui WhatsApp:
+
+"Besok Bandung kota di prediksi Bakal Kacau,,* Besok Di sinyalir ada Dua Kubu besar, 1. Demo lg besar"an,,,2.Ojek Online gabungan Mau Kumpul Minta Tggung jawab ke kubu Angkot Gabungan, Soalnya Di jl.bkr Grab ojek Di Tabrak Sngaja sampe Mati, Di buah batu grab Mati Jg Di Tabrak Angkot, Di karapitan Grab jg Di Gebukin Angkot, Ada jg ojek online Yg Hilang Ga ada kabar,, Trakhir Aktif Aplikasi di Area konflik karapitan jg,,! Info terkini, malam ini para Online lg kumpul di gedung sate,, Besok Bakal Datang Dari cimahi ojek Online skitar 1000 orang Dari jakarta 500 orang, Mau ke Bandung,, Blm dari Yg Lain,,,,, besok jgn main hp Di Motor atau di Pinggir jln,, takut Di kira Ojek online, Besok Udah Ga ada Tanya tanya lg,, Maen Sikat langsung!! Hatur Nuhun,,,
+Info dari FKDM, mohon bantu diinfokan ke rekan2 agar tdk menjadi korban salah sasaran.
+[dan]
+        "
+    </string>
+    <string name="news_content3">
+        "
+
+
+
+
+Bandung - Beredar broadcast yang isinya meminta warga tidak lewat Jalan Braga, Kota Bandung, pada Selasa 4 April 2017, karena bakal ada salah satu kelompok masyarakat 'menyerang' sebuah kafe. Kelompok yang disebut dalam isi broadcast itu berniat mendatangi manajemen kafe lantaran anggotanya jadi korban pengeroyokan. Betulkah informasi tersebut?
+
+Isu
+Broadcast itu menyebar dan beredar di sejumlah layanan aplikasi perpesanan. Pesan tersebut diperoleh detikcom pada Senin (3/4/2017).
+
+Berikut isi:
+
+FYI..
+
+Himbauan...kepada warga Bandung yg akan melintasi jl.Braga pada Hari Selasa,tgl.4 april pkl.19.00 di mohon untuk berhati"sehubungan akan ada pergerakan dari kel.Besar BBC untuk mendatangi salah satu Cafe ( Express Beer ) untuk meminta pertanggung jawaban dari pihak management,karena ada salah satu Anggota BBC / Boxtor yg di keroyok oleh 8 -10 orang,korban dalam kondisi sangat memprihatinkan.sekian informasi ini di sampaikan untuk menghindari Hal"yg tidak di inginkan.
+Dapet bc dari group sebelah apakah benar berita ini, Min... takut nya hoax....
+
+Investigasi:
+Soal broadcast tersebut, detikcom langsung mengonfirmasi kepada Kapolrestabes Bandung Kombes Pol Hendro Pandowo via pesan singkat, Senin (3/4/2017). Hendro mengakui pesan itu cepat menyebar. Ia dan anak buahnya sigap menyelidiki informasi tersebut.
+
+Apa hasilnya? Kabar soal korban pengeroyokan dan rencana pergerakan kelompok massa ke sebuah kafe di Jalan Braga itu tidak benar.
+
+"Terkait berita akan adanya penyerangan ormas di Jalan Braga adalah hoax," kata Hendro.
+
+Polrestabes Bandung menyebarkan kembali info hoax itu melalui akun resmi media sosial (medsos) Twitter @RESTABES_BDG agar masyarakat tidak resah. "Selamat pagi. Kami dari Polrestabes Bandung menghimbau, jangan terprovokasi dg adanya Broadcast seperti ini. Karena ini adalah HOAX," tulis pengelola akun @RESTABES_BDG.
+
+"Sudah kami klarifikasi di medsos," kata Hendro.
+
+Kesimpulan:
+
+Broadcast soal kelompok massa yang berencana menyerang kafe di Jalan Braga Bandung ialah hoax.
+(bbn/try)
+
+        "
+    </string>
+    <string name="title_activity_bandung">BandungActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_about">About Bandung</string>
+
 
 </resources>

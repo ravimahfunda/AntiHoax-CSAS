@@ -1,6 +1,8 @@
 package com.example.chevalier.antihoax;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -86,7 +88,8 @@ public class HomeActivity extends AppCompatActivity
         if (id == R.id.nav_camera) {
             // Handle the camera action
         } else if (id == R.id.nav_gallery) {
-
+            Intent intent = new Intent(this, AboutActivity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_slideshow) {
 
         } else if (id == R.id.nav_manage) {
@@ -103,7 +106,27 @@ public class HomeActivity extends AppCompatActivity
     }
 
     public void berita(View view) {
+
         Intent intent = new Intent(this, Berita01Activity.class);
+        String berita;
+        String judul;
+        int gambar;
+        if (view.getId()== R.id.berita1){
+            berita = getString(R.string.news_content1);
+            judul = getString(R.string.news_title1);
+            gambar = R.drawable.gambar1;
+        } else if (view.getId()== R.id.berita2){
+            berita = getString(R.string.news_content2);
+            judul = getString(R.string.news_title2);
+            gambar = R.drawable.gambar2;
+        } else {
+            berita = getString(R.string.news_content3);
+            judul = getString(R.string.news_title3);
+            gambar = R.drawable.gambar3;
+        }
+        intent.putExtra("berita",berita);
+        intent.putExtra("judul",judul);
+        intent.putExtra("gambar",gambar);
         startActivity(intent);
     }
 }

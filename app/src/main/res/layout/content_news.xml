@@ -21,15 +21,17 @@
             android:text="Hot News"
             android:background="@color/backgroundLight"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginBottom="1dp"
             android:layout_marginTop="4dp"/>
+
         <LinearLayout
+            android:id="@+id/berita1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
             android:background="@color/backgroundLight"
             android:onClick="berita">
             <ImageView
@@ -37,35 +39,26 @@
                 android:layout_height="56dp"
                 android:background="@color/colorAccent"
                 android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
+                android:src="@drawable/gambar1"
                 android:scaleType="centerCrop"/>
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
+                    android:text="@string/news_title1"
                     android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
+                    android:textSize="16dp" />
 
         </LinearLayout>
         <LinearLayout
+            android:id="@+id/berita2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
             android:background="@color/backgroundLight"
             android:onClick="berita">
             <ImageView
@@ -73,35 +66,26 @@
                 android:layout_height="56dp"
                 android:background="@color/colorAccent"
                 android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
+                android:src="@drawable/gambar2"
                 android:scaleType="centerCrop"/>
 
-            <LinearLayout
+
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
+                android:text="@string/news_title2"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16dp" />
 
         </LinearLayout>
         <LinearLayout
+            android:id="@+id/berita3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
             android:background="@color/backgroundLight"
             android:onClick="berita">
             <ImageView
@@ -109,29 +93,18 @@
                 android:layout_height="56dp"
                 android:background="@color/colorAccent"
                 android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
+                android:src="@drawable/gambar3"
                 android:scaleType="centerCrop"/>
 
-            <LinearLayout
+
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
+                android:text="@string/news_title3"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16dp" />
 
         </LinearLayout>
-
 
         <TextView
             android:layout_width="match_parent"
@@ -139,15 +112,15 @@
             android:text="Fresh News"
             android:background="@color/backgroundLight"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"/>
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="8dp"/>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
             android:background="@color/backgroundLight"
             android:onClick="berita">
             <ImageView
@@ -155,26 +128,16 @@
                 android:layout_height="56dp"
                 android:background="@color/colorAccent"
                 android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
+                android:src="@drawable/gambar1"
                 android:scaleType="centerCrop"/>
 
-            <LinearLayout
+
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
+                android:text="@string/news_title1"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16dp" />
 
         </LinearLayout>
         <LinearLayout
@@ -182,8 +145,8 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
             android:background="@color/backgroundLight"
             android:onClick="berita">
             <ImageView
@@ -191,26 +154,16 @@
                 android:layout_height="56dp"
                 android:background="@color/colorAccent"
                 android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
+                android:src="@drawable/gambar2"
                 android:scaleType="centerCrop"/>
 
-            <LinearLayout
+
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
+                android:text="@string/news_title2"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16dp" />
 
         </LinearLayout>
         <LinearLayout
@@ -218,8 +171,8 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
             android:background="@color/backgroundLight"
             android:onClick="berita">
             <ImageView
@@ -227,98 +180,16 @@
                 android:layout_height="56dp"
                 android:background="@color/colorAccent"
                 android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
+                android:src="@drawable/gambar3"
                 android:scaleType="centerCrop"/>
 
-            <LinearLayout
+
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
-
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
-            android:background="@color/backgroundLight"
-            android:onClick="berita">
-            <ImageView
-                android:layout_width="56dp"
-                android:layout_height="56dp"
-                android:background="@color/colorAccent"
-                android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
-                android:scaleType="centerCrop"/>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
-
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:padding="12dp"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
-            android:background="@color/backgroundLight"
-            android:onClick="berita">
-            <ImageView
-                android:layout_width="56dp"
-                android:layout_height="56dp"
-                android:background="@color/colorAccent"
-                android:layout_marginRight="16dp"
-                android:src="@drawable/berita"
-                android:scaleType="centerCrop"/>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Bandung Lautan Api"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="16dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena Hamena"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="12dp"/>
-            </LinearLayout>>
+                android:text="@string/news_title3"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16dp" />
 
         </LinearLayout>
 
